@@ -1,0 +1,37 @@
+header{
+    background-color: rgb(173, 216, 230);
+    color: white;
+    
+    min-height:120px;
+}
+nav{
+    float:right;
+    
+    margin-bottom: 25px;
+}
+li{
+    display:inline;
+}
+header li{
+    display:inline;
+}
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+header a:hover{
+    font-weight:bold;
+    color:rgb(100,100,100);
+}
+h2{
+   color: rgb(173, 216, 230); 
+}
+footer{
+    background-color: rgb(173, 216, 230);
+    text-align: center;
+}
+header .highlight{
+    color:blue;
+    font-weight:bold;
+}
