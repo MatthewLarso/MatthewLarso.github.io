@@ -24,6 +24,10 @@ header a:hover{
     font-weight:bold;
     color:rgb(100,100,100);
 }
+footer a:hover{
+    font-weight:bold;
+    color:rgb(100,100,100);
+}
 h2{
    color: rgb(173, 216, 230); 
 }
@@ -34,4 +38,17 @@ footer{
 header .highlight{
     color:blue;
     font-weight:bold;
+}
+.dark{
+    padding:15px;
+    background:rgb(173, 216, 230);
+    color:white;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+#sidebar{
+    float:right;
+    width:30%;
+    margin-bottom: 40px;
+    margin-right: 100px;
 }
